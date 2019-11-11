@@ -1,0 +1,220 @@
+body {
+	background-color: #488AD9;
+	background-position: center;
+	background-size: auto;
+	background-repeat: no-repeat;
+	padding: 15px;
+}
+
+h1 {
+	font-size: 75px;
+	text-align: center;
+	font-family: 'Bungee';
+}
+
+p {
+	font-family: 'Aleo';
+	font-size: 20px;
+	padding: 50px;
+}
+
+table {
+	background-color: #6ABEEE;
+	border: 10px solid black;
+	border-radius: 50px;
+	padding: 0px 20px 0px 20px;
+	width: auto;
+	margin: 20px;
+	text-align: justify;
+}
+
+button {
+	text-align: center;
+	background-position: center;
+	font-size: 30px;
+}
+
+/*_______Clases barra de favoritos___________________________________________________________*/
+
+.fav_table {
+
+}
+
+/*_______Clases barra de navegación___________________________________________________________*/
+
+.visitar {
+	text-align: center;
+	background-color: #4782F4;
+	width: auto;
+}
+.imgvisitar {
+	width: 150px; 
+	height: 250px;
+}
+
+.imgvisitar:hover {
+	width: 150px; 
+	height: 250px;
+	background-color: white;
+	border: 5px;
+	border-radius: 20px;
+}
+
+.provvisitar {
+	font-family: 'Amita';
+	font-size: 25px;
+}
+
+.bordetabla {
+	border: 5px solid black;
+	border-radius: 20px;
+}
+
+/*_______Clases Concellos___________________________________________________________*/
+
+.tituloA {
+	font-size: 25px;
+	text-align: center;
+	font-family: 'Atomic Age';
+	padding-top: 25px;
+}
+
+.parrafoA {
+	font-family: 'Aleo';
+	font-size: 20px;
+	padding: 5px 5px 5px 50px;
+}
+
+.tdA {
+	width: 50%;
+}
+
+.tdB {
+	width: 25%;
+}
+
+/*_______Clases A Guarda___________________________________________________________*/
+
+.fondoaguarda {
+	background-color: #abcd66;
+}
+
+.imgaguarda {
+	background-color: black;
+	border: 5px solid black;
+	border-radius: 10px;
+	height: auto;
+	width: 100%;
+	margin: 25px 10px 25px 20px;
+}
+
+.logoaguarda {
+	color: #abcd66;
+	background-color: black;
+	border-radius: 30px;
+	padding: 5px;
+}
+
+/*_______Clases Oia___________________________________________________________*/
+
+.fondooia {
+	background-color: #559534;
+}
+
+.imgoia {
+	background-color: black;
+	border: 5px solid black;
+	border-radius: 10px;
+	height: auto;
+	width: 100%;
+	margin: 25px 10px 25px 20px;
+}
+
+.logooia {
+	color: #559534;
+	background-color: black;
+	border-radius: 30px;
+	padding: 5px;
+}
+
+/*_______Clases O Rosal___________________________________________________________*/
+
+.fondoorosal {
+	background-color: #71bc78;
+}
+
+.imgorosal {
+	background-color: black;
+	border: 5px solid black;
+	border-radius: 10px;
+	height: auto;
+	width: 100%;
+	margin: 25px 10px 25px 20px;
+}
+
+.logoorosal {
+	color: #71bc78;
+	background-color: black;
+	border-radius: 30px;
+	padding: 5px;
+}
+
+/*______Clases de la tabla principal y para link Página de Inicio__________________*/
+
+.fav_T {
+	text-align: center;
+	background-color: #4782F4;
+	width: auto;
+}
+
+.favoritos {
+	font-size: 20px;
+	font-family: 'Arbutus';
+	text-align: center;
+	background-color: #DFA03C;
+	width: auto;
+}
+
+.favoritos:hover {
+	font-size: 20px;
+	font-family: 'Arbutus';
+	text-align: center;
+	background-color: #39B318;
+	width: auto;
+}
+
+.fav_table {
+	border: 0px;
+	font-size: 50px;
+	font-family: 'Calligraffitti';
+	text-align: center;
+	background-color: rgba(255, 0, 0, 0);;
+	width: 100%;
+	height: 100%;
+
+}
+
+
+.inicio {
+	font-size: 20px;
+	font-family: 'Arbutus';
+	text-align: center;
+	background-color: 
+	width: 100%;
+	margin-right: 200px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-radius: 30px;
+}
+
+.inicio:hover {
+	font-size: 20px;
+	font-family: 'Arbutus';
+	background-color: #DF4400;
+	text-align: center;
+	width: 100%;
+	margin-right: 200px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-radius: 30px;
+}
