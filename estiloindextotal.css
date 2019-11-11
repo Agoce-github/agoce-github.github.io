@@ -1,0 +1,87 @@
+body {
+	background-image: url('verde.jpg');
+	background-position: center;
+	background-size: auto;
+	background-repeat: no-repeat;
+	padding: 15px;
+}
+
+h1 {
+	font-size: 75px;
+	text-align: center;
+	font-family: 'Bungee';
+	background-color: #DFA03C;
+	border-radius: 100px;
+}
+
+p {
+	font-family: 'Allan';
+	font-size: 30px;
+	padding: 50px;
+}
+
+table {
+	background-color: #C87A00;
+	border: 10px solid black;
+	border-radius: 10px;
+	padding: 0px 20px 0px 20px;
+	width: auto;
+	margin: 20px;
+	text-align: justify;
+}
+
+button {
+	text-align: center;
+	background-position: center;
+	font-size: 30px;
+}
+
+span {
+	font-size:50px;
+}
+
+.logo {
+	color: orange;
+	background-color: black;
+	border-radius: 30px;
+	padding: 5px;
+}
+
+/* Clases de la barra de búsqueda */
+
+.visitar {
+	font-size: 50px;
+	font-family: 'Calligraffitti';
+	text-align: center;
+	background-color: #DFA03C;
+	width: auto;
+}
+.imgvisitar {
+	width: 200px; 
+	height: 333px;
+}
+
+.imgvisitar:hover {
+	width: 200px; 
+	height: 333px;
+	background-color: yellow;
+	border: 5px;
+	border-radius: 20px;
+}
+.provvisitar {
+	font-family: 'Amita';
+	font-size: 25px;
+}
+
+.bordetabla {
+	border: 5px solid black;
+	border-radius: 20px;
+}
+
+.favoritos {
+	font-size: 20px;
+	font-family: 'Arbutus';
+	text-align: center;
+	background-color: #DFA03C;
+	width: auto;
+}

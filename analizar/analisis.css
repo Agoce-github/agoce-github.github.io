@@ -1,0 +1,40 @@
+body {
+	font-size: 17px;
+	text-align: center;
+	width: 100%;
+	color: black;
+	font-style: Fantasía
+
+	box-sizing: border-box;
+	border: 10px solid #5F7629;
+	border-radius: 100px;
+	background-color: white;
+	background-image: url('paisaje_1.jpg');
+	background-position: 50px 0px;
+	background-size: 1900px 1000px;
+	background-repeat: no-repeat;
+	padding: 20px 20px 20px 20px;
+	margin: 50px 50 50 50;
+
+	outline-style: outset;
+	outline-color: black;
+	outline-width: 50px; 
+	outline-offset: 20px;
+	box-shadow: 0 0 0 55pt #A4DD21;
+	
+}
+
+h3 {
+	text-align: center;
+	font-size: 100px;
+	color: #374811;
+
+}
+p {
+	margin-left: 150px;
+	font-size: 16pt;
+	color: red;}
+a:link {
+	color: blue; }
+a:visited {
+	color: purple; }
