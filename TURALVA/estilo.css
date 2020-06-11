@@ -1,0 +1,40 @@
+html {
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+/*-- GRID ---------------------------------*/
+.grid-container {
+  display: grid;
+  grid-template-columns: auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+/*-- VIAJES ---------------------------------*/
+
+.tableviajes {
+  font-size: 30px;
+}
+
+.tdviajes1 {
+  text-align: center;
+  padding: 5px;
+  background-color: #6EEE6E;
+}
+
+.tdviajes2 {
+  text-align: left;
+  padding: 1px;
+  background-color: #E2EE6E;
+}
